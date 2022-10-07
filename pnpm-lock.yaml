@@ -93,7 +93,7 @@ importers:
     specifiers:
       '@algolia/client-search': ^4.13.1
       '@astrojs/preact': ^1.1.1
-      '@astrojs/react': ^1.1.4
+      '@astrojs/react': ^1.2.0
       '@docsearch/css': ^3.1.0
       '@docsearch/react': ^3.1.0
       '@types/node': ^18.0.0
@@ -144,7 +144,7 @@ importers:
   examples/framework-multiple:
     specifiers:
       '@astrojs/preact': ^1.1.1
-      '@astrojs/react': ^1.1.4
+      '@astrojs/react': ^1.2.0
       '@astrojs/solid-js': ^1.1.1
       '@astrojs/svelte': ^1.0.1
       '@astrojs/vue': ^1.1.0
@@ -181,7 +181,7 @@ importers:
 
   examples/framework-react:
     specifiers:
-      '@astrojs/react': ^1.1.4
+      '@astrojs/react': ^1.2.0
       '@types/react': ^18.0.10
       '@types/react-dom': ^18.0.5
       astro: ^1.4.6

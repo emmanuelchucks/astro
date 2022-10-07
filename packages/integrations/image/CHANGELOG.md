@@ -1,5 +1,11 @@
 # @astrojs/image
 
+## 0.9.3
+
+### Patch Changes
+
+- [#5021](https://github.com/withastro/astro/pull/5021) [`062335dbf`](https://github.com/withastro/astro/commit/062335dbf7300ad5370e29ebcf7a05d5a4703a1c) Thanks [@matthewp](https://github.com/matthewp)! - Fix remote images in SSG mode
+
 ## 0.9.2
 
 ### Patch Changes
